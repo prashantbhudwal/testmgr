@@ -95,12 +95,12 @@ In this round, you have to give a simple MCQ assessment. You will be asked quest
 This stage tests your knowledge of the English language. You are tested on your speaking, reading  and writing skills. 
 
 
-#### Passage Writing
+**Passage Writing**
 
 First, you will be asked to **write a passage** around a topic. This is to check your grammar and vocabulary skills.
 
 
-#### Audio Recording
+**Audio Recording**
 
 Then you will be asked to **upload an audio recording** of yourself reciting a passage. This is a test to check your pronunciation and speaking skills.
 
